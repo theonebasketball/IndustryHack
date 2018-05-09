@@ -1,0 +1,11 @@
+Algorithms:
+XGBoost : sales volume forecasting
+Unsupervised learning (K means):  item clustering
+
+Azure Service:
+Azure BLOB Storage
+Azure SQL
+Azure Machine Learning VM: R & Python Server
+
+Result:
+Sales volume forecasting result(all items, animation only items) and feature importance plot
